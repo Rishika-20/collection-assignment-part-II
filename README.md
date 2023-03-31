@@ -1,6 +1,6 @@
 # collection-assignment-part-II
 # A practice set for Colllections in java.
-# I have implemented all the questions of collections:
+# I have implemented all the questions mentioned below:
 
 #Suppose you have a list of names and corresponding ages. You want to create a HashMap where the name is the key and the age is the value. Write code to create the HashMap and add the following entries to it:
 
